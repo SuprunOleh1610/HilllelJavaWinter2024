@@ -2,7 +2,6 @@ package lesson_05.homework_06;
 
 public class Cat extends Animal {
     private static int totalCats = 0;
-
     private final String name;//Тут є дублювання коду. Але не всі Animal мають ім'я. Мабуть треба створити class Pet з полем String name;
 
     public Cat(String name) {
