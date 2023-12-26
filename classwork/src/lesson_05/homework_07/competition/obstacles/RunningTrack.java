@@ -1,6 +1,6 @@
-package lesson_05.homework_07.competition.Obstacles;
+package lesson_05.homework_07.competition.obstacles;
 
-import lesson_05.homework_07.competition.Participants.Participant;
+import lesson_05.homework_07.competition.participants.Participant;
 
 public class RunningTrack extends Obstacle {
     private int length;

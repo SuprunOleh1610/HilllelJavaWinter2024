@@ -1,4 +1,4 @@
-package lesson_05.homework_07.competition.Participants;
+package lesson_05.homework_07.competition.participants;
 
 public class Human extends Participant {
     public Human(String name) {

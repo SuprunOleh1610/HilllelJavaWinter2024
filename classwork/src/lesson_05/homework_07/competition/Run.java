@@ -1,12 +1,12 @@
 package lesson_05.homework_07.competition;
 
-import lesson_05.homework_07.competition.Obstacles.Obstacle;
-import lesson_05.homework_07.competition.Obstacles.RunningTrack;
-import lesson_05.homework_07.competition.Obstacles.Wall;
-import lesson_05.homework_07.competition.Participants.Cat;
-import lesson_05.homework_07.competition.Participants.Human;
-import lesson_05.homework_07.competition.Participants.Participant;
-import lesson_05.homework_07.competition.Participants.Robot;
+import lesson_05.homework_07.competition.obstacles.Obstacle;
+import lesson_05.homework_07.competition.obstacles.RunningTrack;
+import lesson_05.homework_07.competition.obstacles.Wall;
+import lesson_05.homework_07.competition.participants.Cat;
+import lesson_05.homework_07.competition.participants.Human;
+import lesson_05.homework_07.competition.participants.Participant;
+import lesson_05.homework_07.competition.participants.Robot;
 
 public class Run {
     public static void main(String[] args) {
