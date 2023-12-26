@@ -1,4 +1,4 @@
-package lesson_05.homework_07.GeometricFigure;
+package lesson_05.homework_07.geometricFigure;
 
 public class Circle implements GeometricFigure {
     private double radius;

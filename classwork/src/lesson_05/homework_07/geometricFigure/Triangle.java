@@ -1,4 +1,4 @@
-package lesson_05.homework_07.GeometricFigure;
+package lesson_05.homework_07.geometricFigure;
 
 public class Triangle implements GeometricFigure {
     private double base;
